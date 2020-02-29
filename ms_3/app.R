@@ -12,8 +12,7 @@ ui <- navbarPage(
              development projects. This project aims to compare markers of gender 
              inequality with data on women workers in the informal economy in Latin A
              merica, with the goal of analyzing how this already vulnerable group is 
-             restricted by issues of race, class, gender and culture.
-"),
+             restricted by issues of race, class, gender and culture."),
              h3("About Me"),
              p("My name is Daniela Teran and I am a Masters in Design Engineering candidate, 2020. 
              You can reach me at dteran@mde.harvard.edu.")),

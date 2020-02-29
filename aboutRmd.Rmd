@@ -1,0 +1,38 @@
+---
+title: "aboutRmd"
+author: "Daniela Teran"
+date: "2/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# As I shared with you in our last meeting. I had a midterm review for my thesis
+# project today so my focus had been mainly on getting through it. Having
+# successfully completed that, I will put up more work to get this project to
+# the right level. I wrote up the content of my about page as a regular HTML
+# file, I also started experimenting with the Shiny, you will find some work on
+# that on the ms_3 subfolder. Finally, the folder ms_3_raw_data contains the
+# datasets I have selected so far for my analysis. I will work on processing
+# them this week.
+
+```
+# **About**
+
+## Gender inequality for Women in the Informal Economy in Latin America  
+
+#### **Project Background and Motivations**  
+
+Identity has several dimensions, including gender, race, sexuality, and class,
+and these intersecting links influence a person’s daily life. Therefore, a
+gender analysis that utilizes an intersectional lens is essential to designing
+and implementing equitable international development projects. This project aims
+to compare markers of gender inequality with data on women workers in the
+informal economy in Latin A merica, with the goal of analyzing how this already
+vulnerable group is restricted by issues of race, class, gender and culture.  
+
+#### **About Me**
+
+My name is Daniela Teran and I am a Masters in Design Engineering candidate, 2020. You can reach me at ``dteran@mde.harvard.edu``.
+
